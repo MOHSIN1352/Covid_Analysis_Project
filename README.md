@@ -1,6 +1,3 @@
-Of course. Here is a clean, well-organized version of your README.md file. I've used standard Markdown formatting to improve readability with clear sections, links, and lists, making it very professional.
-
----
 # 📊 COVID-19 Data Exploration with SQL and Tableau
 
 This project performs a comprehensive analysis of the global COVID-19 pandemic. Raw data is cleaned and transformed using **SQL**, and the resulting dataset is visualized through a powerful, interactive **Tableau Dashboard**. The goal is to distill complex data into clear, actionable insights about the pandemic's spread, impact, and the global vaccination effort.
